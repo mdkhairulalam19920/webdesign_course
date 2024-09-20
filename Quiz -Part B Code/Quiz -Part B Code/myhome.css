@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+    margin: 0 auto;
+}
+
+div{
+    max-width: 800px;
+    background-color: white;
+    margin: 30px auto;
+}
+
+header{
+    background-color: #27ae60;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

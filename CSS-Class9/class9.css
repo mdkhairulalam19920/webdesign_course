@@ -1,0 +1,21 @@
+
+div{
+    background-color: #3c40c6;
+    color: white;
+    border: 5px solid rgb(4, 189, 4);
+    border-radius: 25px;
+    margin: 70px auto;
+    padding: 50px;
+    height: auto;
+    width: 700px;
+
+    text-align: center;
+    font-size: 24px;
+}
+
+div p{
+    text-align: justify;   
+    text-decoration: underline overline line-through;
+    line-height: 2;
+}
+

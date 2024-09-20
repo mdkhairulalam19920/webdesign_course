@@ -1,0 +1,25 @@
+there are five types of selectors:
+1. Simple Selector (class, id, tag_name)
+
+2. Combinator Selector (parent-child):
+	--decendent selector (space)
+	--child selector (>)
+	--adjacent sibling selector (+)
+
+	example: div p{}
+
+3. Pseudo-class selector ( ): 
+	example- h1:hover {}
+
+4. Pseudo-element selector (): use ::
+
+5. Attribute selector (): 
+ex: Input[type="passowrd"]
+
+
+we will use: tag_name, class, id, pseudo-class, attribute-selector, combinator
+
+we can use css through 3 way-
+1. Inline css
+2. internal css
+3. external css - through using <link rel="stylesheet" href="style.css"> tag.
